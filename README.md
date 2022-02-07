@@ -2,4 +2,4 @@
 
 👉Link do vídeo: https://www.youtube.com/watch?v=ss4BXa-WfgI
 ##
-<img src="https://giphy.com/embed/f5UxaGtlPKfGcppPjV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img src="https://giphy.com/gifs/cgero4VxBWmNcl99Av" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
